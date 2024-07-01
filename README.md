@@ -1,6 +1,6 @@
 # HAABSA4GCN
 
-Code for A Hybrid Approach for Aspect-Based Sentiment Analysis using 4 Graph Convolutional Networks. All software is written in Jupyter notebook and makes use of the TensorFlow framework (https://www.tensorflow.org/) and torch library.
+Code for A Hybrid Approach for Aspect-Based Sentiment Analysis using 4 Graph Convolutional Networks. All software is written in Jupyter Notebook and uses the TensorFlow framework (https://www.tensorflow.org/) and torch library.
 
 ## Introduction
 
@@ -9,13 +9,13 @@ This project introduces HAABSA4GCN, an enhanced model building on the state-of-t
 ## Features
 
 - Combines domain-specific ontology from HAABSA++ with a novel GCN-based backup model.
-- Utilizes four different types of graphs: syntactic, semantic, lexical, and ontological.
+- Utilizes four types of graphs: syntactic, semantic, lexical, and ontological.
 - Evaluated on SemEval 2015 and SemEval 2016 datasets, demonstrating improved performance over HAABSA++.
 
 # Installation and Setup Instructions (Windows):
 
-### Download required files and add them to `data` folder:
+### Download the required files and add them to `data` folder:
 
 - Download ontology: [Heracles Ontology](https://github.com/KSchouten/Heracles/tree/master/src/main/resources/externalData).
-- The necessary libraies are alredy included in the code files.
+- The necessary libraries are already included in the code files.
 
