@@ -1,1 +1,1 @@
-HAABSA4GCN is the hybrid based approach which takes ontology used in HAABSA++ model and also 4 parallel graph: SynGCN, SemGCN, LexGCN, and KnoGCN.
+HAABSA4GCN: Hybrid Approach for Aspect-Based Sentiment Analysis using 4 Graph Convolutional Networks
