@@ -14,9 +14,8 @@ This project introduces HAABSA4GCN, an enhanced model building on the state-of-t
 
 ## Installation and Setup Instructions (Windows):
 
-### Download the required files and add them to `data` folder:
-
 - Download ontology: [Heracles Ontology](https://github.com/KSchouten/Heracles/tree/master/src/main/resources/externalData).
 - Necessary sentiment datasets are stored in the data folder.
 - Necessary libraries are already included in the code files.
+- The Python version used for the model - 3.6
 
